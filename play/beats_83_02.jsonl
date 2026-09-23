@@ -946,3 +946,6 @@
 {"n":946,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Mast yard. Nobody past the west dock. We win in 6 steps. Arc on the left lane, open."}
 {"n":947,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard west dock. Bess keeps the barrel for the win. 7 steps, arc on the left lane, open."}
 {"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west dock. arc left open. 8 steps. The barrel stays for the win."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at Last Light. Nobody past the west dock. We win in 2 steps. Arc on the left lane, open."}
+{"n":950,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light west dock. Matt keeps the barrel for the win. 3 steps, arc on the left lane, open."}
+{"n":951,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west dock. arc left open. 4 steps. The barrel stays for the win."}
