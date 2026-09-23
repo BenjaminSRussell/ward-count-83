@@ -230,3 +230,6 @@
 {"n":230,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at High line. Nobody past the north dock. We win in 6 steps. Arc on the left lane, open."}
 {"n":231,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north dock. Bess keeps the crate for the win. 7 steps, arc on the left lane, open."}
 {"n":232,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north dock. arc left open. 8 steps. The crate stays for the win."}
+{"n":233,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Ward gate. Nobody past the north dock. We win in 2 steps. Arc on the left lane, open."}
+{"n":234,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north dock. Matt keeps the lamp for the win. 3 steps, arc on the left lane, open."}
+{"n":235,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north dock. arc left open. 4 steps. The lamp stays for the win."}
