@@ -741,3 +741,6 @@
 {"n":741,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south dock. arc left open. 5 steps. The plywood stays for the win."}
 {"n":742,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at High line. Nobody past the south dock. We win in 6 steps. Arc on the left lane, open."}
 {"n":743,"kind":"place","name":"High line south dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line south dock. Bess keeps the plywood for the win. 7 steps, arc on the left lane, open."}
+{"n":744,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south dock. arc left open. 8 steps. The plywood stays for the win."}
+{"n":745,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Ward gate. Nobody past the south dock. We win in 2 steps. Arc on the left lane, open."}
+{"n":746,"kind":"place","name":"Ward gate south dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate south dock. Matt keeps the hydrant for the win. 3 steps, arc on the left lane, open."}
