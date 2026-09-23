@@ -238,3 +238,6 @@
 {"n":238,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at High line. Nobody past the north dock. We win in 6 steps. Arc on the left lane, open."}
 {"n":239,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north dock. Bess keeps the drum for the win. 7 steps, arc on the left lane, open."}
 {"n":240,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north dock. arc left open. 8 steps. The drum stays for the win."}
+{"n":241,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the badge door at Ward gate. Nobody past the north dock. We win in 2 steps. Arc on the left lane, open."}
+{"n":242,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate north dock. Matt keeps the badge door for the win. 3 steps, arc on the left lane, open."}
+{"n":243,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north dock. arc left open. 4 steps. The badge door stays for the win."}
