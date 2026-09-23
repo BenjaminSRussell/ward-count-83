@@ -616,3 +616,6 @@
 {"n":616,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard west dock. Ivo keeps the rope for the win. 4 steps, arc on the left lane, open."}
 {"n":617,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west dock. arc left open. 5 steps. The rope stays for the win."}
 {"n":618,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Mast yard. Nobody past the west dock. We win in 6 steps. Arc on the left lane, open."}
+{"n":619,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard west dock. Bess keeps the rope for the win. 7 steps, arc on the left lane, open."}
+{"n":620,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west dock. arc left open. 8 steps. The rope stays for the win."}
+{"n":621,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at Last Light. Nobody past the west dock. We win in 2 steps. Arc on the left lane, open."}
