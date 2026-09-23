@@ -946,3 +946,6 @@
 {"n":946,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Mall court. Nobody past the east dock. We win in 3 steps. Arc on the left lane, open."}
 {"n":947,"kind":"place","name":"Mall court east dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court east dock. Bess keeps the awning for the win. 4 steps, arc on the left lane, open."}
 {"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east dock. arc left open. 5 steps. The awning stays for the win."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at the Underpass. Nobody past the east dock. We win in 6 steps. Arc on the left lane, open."}
+{"n":950,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass east dock. Matt keeps the awning for the win. 7 steps, arc on the left lane, open."}
+{"n":951,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east dock. arc left open. 8 steps. The awning stays for the win."}
