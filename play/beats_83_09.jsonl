@@ -495,3 +495,6 @@
 {"n":495,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Mast yard. Nobody past the south dock. We win in 3 steps. Arc on the left lane, open."}
 {"n":496,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard south dock. Ivo keeps the rebar for the win. 4 steps, arc on the left lane, open."}
 {"n":497,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south dock. arc left open. 5 steps. The rebar stays for the win."}
+{"n":498,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Mast yard. Nobody past the south dock. We win in 6 steps. Arc on the left lane, open."}
+{"n":499,"kind":"place","name":"Mast yard south dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard south dock. Bess keeps the rebar for the win. 7 steps, arc on the left lane, open."}
+{"n":500,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south dock. arc left open. 8 steps. The rebar stays for the win."}
