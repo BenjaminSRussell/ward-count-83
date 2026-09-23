@@ -593,3 +593,6 @@
 {"n":593,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley south dock. Nia keeps the plywood for the win. 4 steps, arc on the left lane, open."}
 {"n":594,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south dock. arc left open. 5 steps. The plywood stays for the win."}
 {"n":595,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Kessler alley. Nobody past the south dock. We win in 6 steps. Arc on the left lane, open."}
+{"n":596,"kind":"place","name":"Kessler alley south dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley south dock. Ivo keeps the plywood for the win. 7 steps, arc on the left lane, open."}
+{"n":597,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south dock. arc left open. 8 steps. The plywood stays for the win."}
+{"n":598,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Kessler alley. Nobody past the south dock. We win in 2 steps. Arc on the left lane, open."}
