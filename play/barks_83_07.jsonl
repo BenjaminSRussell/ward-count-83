@@ -669,3 +669,6 @@
 {"n":669,"kind":"place","name":"South stair north dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair north dock. Nia keeps the rope for the win. 4 steps, arc on the left lane, open."}
 {"n":670,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north dock. arc left open. 5 steps. The rope stays for the win."}
 {"n":671,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at South stair. Nobody past the north dock. We win in 6 steps. Arc on the left lane, open."}
+{"n":672,"kind":"place","name":"South stair north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north dock. Ivo keeps the rope for the win. 7 steps, arc on the left lane, open."}
+{"n":673,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north dock. arc left open. 8 steps. The rope stays for the win."}
+{"n":674,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at South stair. Nobody past the north dock. We win in 2 steps. Arc on the left lane, open."}
