@@ -786,3 +786,6 @@
 {"n":786,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Mast yard. Nobody past the west dock. We win in 6 steps. Arc on the left lane, open."}
 {"n":787,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard west dock. Bess keeps the shutter for the win. 7 steps, arc on the left lane, open."}
 {"n":788,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west dock. arc left open. 8 steps. The shutter stays for the win."}
+{"n":789,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at Last Light. Nobody past the west dock. We win in 2 steps. Arc on the left lane, open."}
+{"n":790,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light west dock. Matt keeps the shutter for the win. 3 steps, arc on the left lane, open."}
+{"n":791,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west dock. arc left open. 4 steps. The shutter stays for the win."}
