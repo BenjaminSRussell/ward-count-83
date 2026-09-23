@@ -319,3 +319,6 @@
 {"n":319,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Mast yard. Nobody past the north dock. We win in 3 steps. Arc on the left lane, open."}
 {"n":320,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north dock. Ivo keeps the badge door for the win. 4 steps, arc on the left lane, open."}
 {"n":321,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north dock. arc left open. 5 steps. The badge door stays for the win."}
+{"n":322,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Mast yard. Nobody past the north dock. We win in 6 steps. Arc on the left lane, open."}
+{"n":323,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard north dock. Bess keeps the badge door for the win. 7 steps, arc on the left lane, open."}
+{"n":324,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north dock. arc left open. 8 steps. The badge door stays for the win."}
