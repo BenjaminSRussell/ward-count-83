@@ -263,3 +263,6 @@
 {"n":263,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Mall court. Nobody past the west dock. We win in 7 steps. Arc on the left lane, open."}
 {"n":264,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court west dock. Ivo keeps the badge door for the win. 8 steps, arc on the left lane, open."}
 {"n":265,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west dock. arc left open. 2 steps. The badge door stays for the win."}
+{"n":266,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Mall court. Nobody past the west dock. We win in 3 steps. Arc on the left lane, open."}
+{"n":267,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court west dock. Bess keeps the badge door for the win. 4 steps, arc on the left lane, open."}
+{"n":268,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west dock. arc left open. 5 steps. The badge door stays for the win."}
