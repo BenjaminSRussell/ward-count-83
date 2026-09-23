@@ -900,3 +900,6 @@
 {"n":900,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the awning at the Lot. Nobody past the west dock. We win in 8 steps. Arc on the left lane, open."}
 {"n":901,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot west dock. Nia keeps the awning for the win. 2 steps, arc on the left lane, open."}
 {"n":902,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west dock. arc left open. 3 steps. The awning stays for the win."}
+{"n":903,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at the Lot. Nobody past the west dock. We win in 4 steps. Arc on the left lane, open."}
+{"n":904,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west dock. Ivo keeps the awning for the win. 5 steps, arc on the left lane, open."}
+{"n":905,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west dock. arc left open. 6 steps. The awning stays for the win."}
