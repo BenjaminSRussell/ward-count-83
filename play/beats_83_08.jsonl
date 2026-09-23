@@ -343,3 +343,6 @@
 {"n":343,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at South stair. Nobody past the north dock. We win in 6 steps. Arc on the left lane, open."}
 {"n":344,"kind":"place","name":"South stair north dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair north dock. Ivo keeps the badge door for the win. 7 steps, arc on the left lane, open."}
 {"n":345,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north dock. arc left open. 8 steps. The badge door stays for the win."}
+{"n":346,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at South stair. Nobody past the north dock. We win in 2 steps. Arc on the left lane, open."}
+{"n":347,"kind":"place","name":"South stair north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair north dock. Bess keeps the badge door for the win. 3 steps, arc on the left lane, open."}
+{"n":348,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north dock. arc left open. 4 steps. The badge door stays for the win."}
